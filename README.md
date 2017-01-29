@@ -1,6 +1,4 @@
 # Martin-Dahlberg
-Silver
-
-Martin Dahlberg
-martin.dahlber@hyperisland.se
-0739915659
+Martin Dahlberg<br>
+martin.dahlber@hyperisland.se<br>
+0739915659<br>
